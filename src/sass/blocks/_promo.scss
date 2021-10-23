@@ -1,0 +1,23 @@
+.promo {
+  min-height: 650px;
+  padding: 21px 0 93px 0;
+  background: url(../img/main.jpg) center (center/cover) no-repeat;
+  &__header {
+    font-weight: 700;
+    font-size: 42px;
+    text-transform: uppercase;
+    color: #ffffff;
+  }
+  &__subheader {
+    font-weight: 500;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #ffffff;
+  }
+  &__icon {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    color: #ffffff;
+  }
+}
